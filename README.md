@@ -37,7 +37,7 @@ remove-bg 网站开始收费，一大堆牛鬼神蛇也开始收费了-_-
 ## 跑起来
 
 1. 打开命令行窗口：
-   ![cmd](resources\usage1.png)
+   ![cmd](resources/usage1.png)
 
 2. After completing the setup, you can run the application using：
 
