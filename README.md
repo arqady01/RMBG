@@ -49,9 +49,9 @@ python src/main.py
 
 ## Usage使用指南
 
-<img src="J:\temp\RMBG\resources\usage2.png" alt="主界面1" style="zoom: 25%;" />
+<img src="resources/usage2.png" alt="主界面1" style="zoom: 25%;" />
 
-<img src="J:\temp\RMBG\resources\usage3.png" alt="主界面2" style="zoom:25%;" />
+<img src="resources/usage3.png" alt="主界面2" style="zoom:25%;" />
 
 1. Click "Select Input Images" to choose the images you want to process.
 2. Click "Select Output Folder" to choose where the processed images will be saved.
@@ -65,11 +65,11 @@ You can also drag and drop images directly into the application window.
 
 三张示例图，效果应该能有85分吧 :)
 
-![watermelon](J:\temp\RMBG\resources\watermelon.jpg)
+![watermelon](resources/watermelon.jpg)
 
-![dog2](J:\temp\RMBG\resources\dog2.jpg)
+![dog2](resources/dog2.jpg)
 
-![dog](J:\temp\RMBG\resources\dog.jpg)
+![dog](resources/dog.jpg)
 
 
 
