@@ -1,5 +1,7 @@
 # RMBG
 
+本项目基于 [RMBG-1.4](https://huggingface.co/briaai/RMBG-1.4)，感谢!
+
 > Remove-background
 
 抠图，除了抠图还是抠图
@@ -31,7 +33,13 @@ remove-bg 网站开始收费，一大堆牛鬼神蛇也开始收费了-_-
    pip install -r requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple
    ```
 
+4. 下载模型
 
+- 如果是从网盘下载的用户，这步可略过
+- 从GitHub下载源代码的用户
+    - 直接跑一遍程序，可以在命令行窗口看到 u2net.onnx 被下载到了何处，直接剪切到项目文件夹 'models'内
+    - 或者从网盘下载
+    - 或者去 huggingFace 下载 u2net.onnx
 
 
 ## 跑起来
