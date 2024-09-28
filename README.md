@@ -81,6 +81,6 @@ You can also drag and drop images directly into the application window.
 
 
 
-## License开源协议
+# License开源协议
 
 [MIT License](LICENSE)
