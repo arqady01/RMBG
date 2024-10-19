@@ -70,9 +70,9 @@ python src/main.py
 
 ### 使用指南
 
-    <img src="resources/usage2.png" alt="主界面1" style="zoom: 25%;" />
+<img src="resources/usage2.png" alt="主界面1" style="zoom: 25%;" />
 
-    <img src="resources/usage3.png" alt="主界面2" style="zoom:25%;" />
+<img src="resources/usage3.png" alt="主界面2" style="zoom:25%;" />
 
 1. **选择输入图片**：
     - 点击 "Select Input Images" 按钮，选择你想要处理的图片。
